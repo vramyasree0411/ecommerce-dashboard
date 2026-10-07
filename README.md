@@ -1,4 +1,5 @@
 # E-Commerce Operations & Analytics Dashboard
+![Dashboard Preview](dashboard-preview.png)
 
 A lightweight, high-performance data analytics web application built with FastAPI and Pandas to track transactional performance, revenue metrics, and regional sales distribution.
 
@@ -9,6 +10,6 @@ A lightweight, high-performance data analytics web application built with FastAP
 
 ## How to Run Locally
 1. Clone the repository:
-   ```bash
+   
    git clone <your-repo-link>
    cd ecommerce-dashboard
